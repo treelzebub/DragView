@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DragView">
+        <attr name="inner_text"                format="string" />
+        <attr name="inner_text_color"          format="color" />
+        <attr name="inner_text_size"           format="dimension" />
+        <attr name="inner_text_paddingLeft"    format="dimension" />
+        <attr name="inner_text_paddingRight"   format="dimension" />
+        <attr name="inner_text_paddingTop"     format="dimension" />
+        <attr name="inner_text_paddingBottom"  format="dimension" />
+        <attr name="inner_text_background"     format="reference" />
+        <attr name="button_disabled"           format="reference" />
+        <attr name="button_enabled"            format="reference" />
+        <attr name="button_padding"            format="dimension" />
+        <attr name="button_paddingLeft"        format="dimension" />
+        <attr name="button_paddingRight"       format="dimension" />
+        <attr name="button_paddingTop"         format="dimension" />
+        <attr name="button_paddingBottom"      format="dimension" />
+        <attr name="button_background"         format="reference" />
+    </declare-styleable>
+</resources>
